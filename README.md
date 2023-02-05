@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @sivaramakrishnan1 , but my mom named me Sivarama Krishnan
+- 👋 Hi, This is Siva (Sivarama Krishnan Venkatrayan)
 
 - 👀 I’m interested in ...
-    * Android app development
     * Java
     * Python
-    * and lot
+    * Front-end web development
     
 - 🌱 I’m currently learning ...
-    * Web designing
-    * ML
+    * Java servlets
+    * Socket
+    * JS
     
 
 - 📫 How to reach me ...
